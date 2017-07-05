@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<commands>
+	<addCategory
+		id="swingx-all-1.6.4_1460933139838"
+		name="swingx-all-1.6.4"
+		description="Container with import elements from D:\Java-ws\tp3\swingx-all-1.6.4.jar"
+		visible="true"
+		open="true"/>
+	<addComponent
+		id="org.jdesktop.swingx.JXTaskPaneContainer_1460933139838"
+		name="JXTaskPaneContainer"
+		description="Custom component: org.jdesktop.swingx.JXTaskPaneContainer"
+		visible="true"
+		class="org.jdesktop.swingx.JXTaskPaneContainer"
+		category="swingx-all-1.6.4_1460933139838"/>
+	<addComponent
+		id="org.jdesktop.swingx.JXLabel_1460933139838"
+		name="JXLabel"
+		description="Custom component: org.jdesktop.swingx.JXLabel"
+		visible="true"
+		class="org.jdesktop.swingx.JXLabel"
+		category="swingx-all-1.6.4_1460933139838"/>
+	<addComponent
+		id="org.jdesktop.swingx.JXList_1460933139838"
+		name="JXList"
+		description="Custom component: org.jdesktop.swingx.JXList"
+		visible="true"
+		class="org.jdesktop.swingx.JXList"
+		category="swingx-all-1.6.4_1460933139838"/>
+	<addComponent
+		id="org.jdesktop.swingx.border.MatteBorderExt_1460933139838"
+		name="MatteBorderExt"
+		description="Custom component: org.jdesktop.swingx.border.MatteBorderExt"
+		visible="true"
+		class="org.jdesktop.swingx.border.MatteBorderExt"
+		category="swingx-all-1.6.4_1460933139838"/>
+	<addComponent
+		id="org.jdesktop.swingx.JXEditorPane_1460933139838"
+		name="JXEditorPane"
+		description="Custom component: org.jdesktop.swingx.JXEditorPane"
+		visible="true"
+		class="org.jdesktop.swingx.JXEditorPane"
+		category="swingx-all-1.6.4_1460933139838"/>
+	<addComponent
+		id="org.jdesktop.swingx.painter.TextPainter_1460933139838"
+		name="TextPainter"
+		description="Custom component: org.jdesktop.swingx.painter.TextPainter"
+		visible="true"
+		class="org.jdesktop.swingx.painter.TextPainter"
+		category="swingx-all-1.6.4_1460933139838"/>
+	<addComponent
+		id="org.jdesktop.swingx.JXFindPanel_1460933139838"
+		name="JXFindPanel"
+		description="Custom component: org.jdesktop.swingx.JXFindPanel"
+		visible="true"
+		class="org.jdesktop.swingx.JXFindPanel"
+		category="swingx-all-1.6.4_1460933139838"/>
+	<addComponent
+		id="org.jdesktop.swingx.JXCollapsiblePane_1460933139838"
+		name="JXCollapsiblePane"
+		description="Custom component: org.jdesktop.swingx.JXCollapsiblePane"
+		visible="true"
+		class="org.jdesktop.swingx.JXCollapsiblePane"
+		category="swingx-all-1.6.4_1460933139838"/>
+	<addComponent
+		id="org.jdesktop.swingx.JXTaskPane_1460933139838"
+		name="JXTaskPane"
+		description="Custom component: org.jdesktop.swingx.JXTaskPane"
+		visible="true"
+		class="org.jdesktop.swingx.JXTaskPane"
+		category="swingx-all-1.6.4_1460933139838"/>
+	<addComponent
+		id="org.jdesktop.swingx.painter.RectanglePainter_1460933139838"
+		name="RectanglePainter"
+		description="Custom component: org.jdesktop.swingx.painter.RectanglePainter"
+		visible="true"
+		class="org.jdesktop.swingx.painter.RectanglePainter"
+		category="swingx-all-1.6.4_1460933139838"/>
+	<addComponent
+		id="org.jdesktop.swingx.JXTitledSeparator_1460933139838"
+		name="JXTitledSeparator"
+		description="Custom component: org.jdesktop.swingx.JXTitledSeparator"
+		visible="true"
+		class="org.jdesktop.swingx.JXTitledSeparator"
+		category="swingx-all-1.6.4_1460933139838"/>
+	<addComponent
+		id="org.jdesktop.swingx.JXSearchField_1460933139838"
+		name="JXSearchField"
+		description="Custom component: org.jdesktop.swingx.JXSearchField"
+		visible="true"
+		class="org.jdesktop.swingx.JXSearchField"
+		category="swingx-all-1.6.4_1460933139838"/>
+	<addComponent
+		id="org.jdesktop.swingx.JXHeader_1460933139838"
+		name="JXHeader"
+		description="Custom component: org.jdesktop.swingx.JXHeader"
+		visible="true"
+		class="org.jdesktop.swingx.JXHeader"
+		category="swingx-all-1.6.4_1460933139838"/>
+	<addComponent
+		id="org.jdesktop.swingx.JXRadioGroup_1460933139838"
+		name="JXRadioGroup"
+		description="Custom component: org.jdesktop.swingx.JXRadioGroup"
+		visible="true"
+		class="org.jdesktop.swingx.JXRadioGroup"
+		category="swingx-all-1.6.4_1460933139838"/>
+	<addComponent
+		id="org.jdesktop.swingx.JXTree_1460933139838"
+		name="JXTree"
+		description="Custom component: org.jdesktop.swingx.JXTree"
+		visible="true"
+		class="org.jdesktop.swingx.JXTree"
+		category="swingx-all-1.6.4_1460933139838"/>
+	<addComponent
+		id="org.jdesktop.swingx.painter.CheckerboardPainter_1460933139838"
+		name="CheckerboardPainter"
+		description="Custom component: org.jdesktop.swingx.painter.CheckerboardPainter"
+		visible="true"
+		class="org.jdesktop.swingx.painter.CheckerboardPainter"
+		category="swingx-all-1.6.4_1460933139838"/>
+	<addComponent
+		id="org.jdesktop.swingx.JXTipOfTheDay_1460933139838"
+		name="JXTipOfTheDay"
+		description="Custom component: org.jdesktop.swingx.JXTipOfTheDay"
+		visible="true"
+		class="org.jdesktop.swingx.JXTipOfTheDay"
+		category="swingx-all-1.6.4_1460933139838"/>
+	<addComponent
+		id="org.jdesktop.swingx.JXTreeTable_1460933139838"
+		name="JXTreeTable"
+		description="Custom component: org.jdesktop.swingx.JXTreeTable"
+		visible="true"
+		class="org.jdesktop.swingx.JXTreeTable"
+		category="swingx-all-1.6.4_1460933139838"/>
+	<addComponent
+		id="org.jdesktop.swingx.JXBusyLabel_1460933139838"
+		name="JXBusyLabel"
+		description="Custom component: org.jdesktop.swingx.JXBusyLabel"
+		visible="true"
+		class="org.jdesktop.swingx.JXBusyLabel"
+		category="swingx-all-1.6.4_1460933139838"/>
+	<addComponent
+		id="org.jdesktop.swingx.JXGraph_1460933139838"
+		name="JXGraph"
+		description="Custom component: org.jdesktop.swingx.JXGraph"
+		visible="true"
+		class="org.jdesktop.swingx.JXGraph"
+		category="swingx-all-1.6.4_1460933139838"/>
+	<addComponent
+		id="org.jdesktop.swingx.JXHyperlink_1460933139838"
+		name="JXHyperlink"
+		description="Custom component: org.jdesktop.swingx.JXHyperlink"
+		visible="true"
+		class="org.jdesktop.swingx.JXHyperlink"
+		category="swingx-all-1.6.4_1460933139838"/>
+	<addComponent
+		id="org.jdesktop.swingx.HorizontalLayout_1460933139838"
+		name="HorizontalLayout"
+		description="Custom component: org.jdesktop.swingx.HorizontalLayout"
+		visible="true"
+		class="org.jdesktop.swingx.HorizontalLayout"
+		category="swingx-all-1.6.4_1460933139838"/>
+	<addComponent
+		id="org.jdesktop.swingx.auth.JDBCLoginService_1460933139838"
+		name="JDBCLoginService"
+		description="Custom component: org.jdesktop.swingx.auth.JDBCLoginService"
+		visible="true"
+		class="org.jdesktop.swingx.auth.JDBCLoginService"
+		category="swingx-all-1.6.4_1460933139838"/>
+	<addComponent
+		id="org.jdesktop.swingx.auth.JAASLoginService_1460933139838"
+		name="JAASLoginService"
+		description="Custom component: org.jdesktop.swingx.auth.JAASLoginService"
+		visible="true"
+		class="org.jdesktop.swingx.auth.JAASLoginService"
+		category="swingx-all-1.6.4_1460933139838"/>
+	<addComponent
+		id="org.jdesktop.swingx.painter.BusyPainter_1460933139838"
+		name="BusyPainter"
+		description="Custom component: org.jdesktop.swingx.painter.BusyPainter"
+		visible="true"
+		class="org.jdesktop.swingx.painter.BusyPainter"
+		category="swingx-all-1.6.4_1460933139838"/>
+	<addComponent
+		id="org.jdesktop.swingx.painter.GlossPainter_1460933139838"
+		name="GlossPainter"
+		description="Custom component: org.jdesktop.swingx.painter.GlossPainter"
+		visible="true"
+		class="org.jdesktop.swingx.painter.GlossPainter"
+		category="swingx-all-1.6.4_1460933139838"/>
+	<addComponent
+		id="org.jdesktop.swingx.JXStatusBar_1460933139838"
+		name="JXStatusBar"
+		description="Custom component: org.jdesktop.swingx.JXStatusBar"
+		visible="true"
+		class="org.jdesktop.swingx.JXStatusBar"
+		category="swingx-all-1.6.4_1460933139838"/>
+	<addComponent
+		id="org.jdesktop.swingx.VerticalLayout_1460933139838"
+		name="VerticalLayout"
+		description="Custom component: org.jdesktop.swingx.VerticalLayout"
+		visible="true"
+		class="org.jdesktop.swingx.VerticalLayout"
+		category="swingx-all-1.6.4_1460933139838"/>
+	<addComponent
+		id="org.jdesktop.swingx.JXLoginPane_1460933139838"
+		name="JXLoginPane"
+		description="Custom component: org.jdesktop.swingx.JXLoginPane"
+		visible="true"
+		class="org.jdesktop.swingx.JXLoginPane"
+		category="swingx-all-1.6.4_1460933139838"/>
+	<addComponent
+		id="org.jdesktop.swingx.JXSearchPanel_1460933139838"
+		name="JXSearchPanel"
+		description="Custom component: org.jdesktop.swingx.JXSearchPanel"
+		visible="true"
+		class="org.jdesktop.swingx.JXSearchPanel"
+		category="swingx-all-1.6.4_1460933139838"/>
+	<addComponent
+		id="org.jdesktop.swingx.JXTitledPanel_1460933139838"
+		name="JXTitledPanel"
+		description="Custom component: org.jdesktop.swingx.JXTitledPanel"
+		visible="true"
+		class="org.jdesktop.swingx.JXTitledPanel"
+		category="swingx-all-1.6.4_1460933139838"/>
+	<addComponent
+		id="org.jdesktop.swingx.JXFrame_1460933139838"
+		name="JXFrame"
+		description="Custom component: org.jdesktop.swingx.JXFrame"
+		visible="true"
+		class="org.jdesktop.swingx.JXFrame"
+		category="swingx-all-1.6.4_1460933139838"/>
+	<addComponent
+		id="org.jdesktop.swingx.JXErrorPane_1460933139838"
+		name="JXErrorPane"
+		description="Custom component: org.jdesktop.swingx.JXErrorPane"
+		visible="true"
+		class="org.jdesktop.swingx.JXErrorPane"
+		category="swingx-all-1.6.4_1460933139838"/>
+	<addComponent
+		id="org.jdesktop.swingx.JXButton_1460933139838"
+		name="JXButton"
+		description="Custom component: org.jdesktop.swingx.JXButton"
+		visible="true"
+		class="org.jdesktop.swingx.JXButton"
+		category="swingx-all-1.6.4_1460933139838"/>
+	<addComponent
+		id="org.jdesktop.swingx.JXFindBar_1460933139838"
+		name="JXFindBar"
+		description="Custom component: org.jdesktop.swingx.JXFindBar"
+		visible="true"
+		class="org.jdesktop.swingx.JXFindBar"
+		category="swingx-all-1.6.4_1460933139838"/>
+	<addComponent
+		id="org.jdesktop.swingx.JXTextArea_1460933139838"
+		name="JXTextArea"
+		description="Custom component: org.jdesktop.swingx.JXTextArea"
+		visible="true"
+		class="org.jdesktop.swingx.JXTextArea"
+		category="swingx-all-1.6.4_1460933139838"/>
+	<addComponent
+		id="org.jdesktop.swingx.JXPanel_1460933139838"
+		name="JXPanel"
+		description="Custom component: org.jdesktop.swingx.JXPanel"
+		visible="true"
+		class="org.jdesktop.swingx.JXPanel"
+		category="swingx-all-1.6.4_1460933139838"/>
+	<addComponent
+		id="org.jdesktop.swingx.JXMonthView_1460933139838"
+		name="JXMonthView"
+		description="Custom component: org.jdesktop.swingx.JXMonthView"
+		visible="true"
+		class="org.jdesktop.swingx.JXMonthView"
+		category="swingx-all-1.6.4_1460933139838"/>
+	<addComponent
+		id="org.jdesktop.swingx.painter.ImagePainter_1460933139838"
+		name="ImagePainter"
+		description="Custom component: org.jdesktop.swingx.painter.ImagePainter"
+		visible="true"
+		class="org.jdesktop.swingx.painter.ImagePainter"
+		category="swingx-all-1.6.4_1460933139838"/>
+	<addComponent
+		id="org.jdesktop.swingx.auth.DefaultUserNameStore_1460933139838"
+		name="DefaultUserNameStore"
+		description="Custom component: org.jdesktop.swingx.auth.DefaultUserNameStore"
+		visible="true"
+		class="org.jdesktop.swingx.auth.DefaultUserNameStore"
+		category="swingx-all-1.6.4_1460933139838"/>
+	<addComponent
+		id="org.jdesktop.swingx.border.IconBorder_1460933139838"
+		name="IconBorder"
+		description="Custom component: org.jdesktop.swingx.border.IconBorder"
+		visible="true"
+		class="org.jdesktop.swingx.border.IconBorder"
+		category="swingx-all-1.6.4_1460933139838"/>
+	<addComponent
+		id="org.jdesktop.swingx.painter.CompoundPainter_1460933139838"
+		name="CompoundPainter"
+		description="Custom component: org.jdesktop.swingx.painter.CompoundPainter"
+		visible="true"
+		class="org.jdesktop.swingx.painter.CompoundPainter"
+		category="swingx-all-1.6.4_1460933139838"/>
+	<addComponent
+		id="org.jdesktop.swingx.JXMultiSplitPane_1460933139838"
+		name="JXMultiSplitPane"
+		description="Custom component: org.jdesktop.swingx.JXMultiSplitPane"
+		visible="true"
+		class="org.jdesktop.swingx.JXMultiSplitPane"
+		category="swingx-all-1.6.4_1460933139838"/>
+	<addComponent
+		id="org.jdesktop.swingx.JXTable_1460933139838"
+		name="JXTable"
+		description="Custom component: org.jdesktop.swingx.JXTable"
+		visible="true"
+		class="org.jdesktop.swingx.JXTable"
+		category="swingx-all-1.6.4_1460933139838"/>
+	<addComponent
+		id="org.jdesktop.swingx.JXRootPane_1460933139838"
+		name="JXRootPane"
+		description="Custom component: org.jdesktop.swingx.JXRootPane"
+		visible="true"
+		class="org.jdesktop.swingx.JXRootPane"
+		category="swingx-all-1.6.4_1460933139838"/>
+	<addComponent
+		id="org.jdesktop.swingx.JXDatePicker_1460933139838"
+		name="JXDatePicker"
+		description="Custom component: org.jdesktop.swingx.JXDatePicker"
+		visible="true"
+		class="org.jdesktop.swingx.JXDatePicker"
+		category="swingx-all-1.6.4_1460933139838"/>
+	<addComponent
+		id="org.jdesktop.swingx.JXMultiThumbSlider_1460933139838"
+		name="JXMultiThumbSlider"
+		description="Custom component: org.jdesktop.swingx.JXMultiThumbSlider"
+		visible="true"
+		class="org.jdesktop.swingx.JXMultiThumbSlider"
+		category="swingx-all-1.6.4_1460933139838"/>
+	<addComponent
+		id="org.jdesktop.swingx.painter.MattePainter_1460933139838"
+		name="MattePainter"
+		description="Custom component: org.jdesktop.swingx.painter.MattePainter"
+		visible="true"
+		class="org.jdesktop.swingx.painter.MattePainter"
+		category="swingx-all-1.6.4_1460933139838"/>
+	<addComponent
+		id="org.jdesktop.swingx.painter.ShapePainter_1460933139838"
+		name="ShapePainter"
+		description="Custom component: org.jdesktop.swingx.painter.ShapePainter"
+		visible="true"
+		class="org.jdesktop.swingx.painter.ShapePainter"
+		category="swingx-all-1.6.4_1460933139838"/>
+	<addComponent
+		id="org.jdesktop.swingx.JXDialog_1460933139838"
+		name="JXDialog"
+		description="Custom component: org.jdesktop.swingx.JXDialog"
+		visible="true"
+		class="org.jdesktop.swingx.JXDialog"
+		category="swingx-all-1.6.4_1460933139838"/>
+	<addComponent
+		id="org.jdesktop.swingx.painter.AlphaPainter_1460933139838"
+		name="AlphaPainter"
+		description="Custom component: org.jdesktop.swingx.painter.AlphaPainter"
+		visible="true"
+		class="org.jdesktop.swingx.painter.AlphaPainter"
+		category="swingx-all-1.6.4_1460933139838"/>
+	<addComponent
+		id="org.jdesktop.swingx.painter.PinstripePainter_1460933139838"
+		name="PinstripePainter"
+		description="Custom component: org.jdesktop.swingx.painter.PinstripePainter"
+		visible="true"
+		class="org.jdesktop.swingx.painter.PinstripePainter"
+		category="swingx-all-1.6.4_1460933139838"/>
+	<addComponent
+		id="org.jdesktop.swingx.JXImageView_1460933139838"
+		name="JXImageView"
+		description="Custom component: org.jdesktop.swingx.JXImageView"
+		visible="true"
+		class="org.jdesktop.swingx.JXImageView"
+		category="swingx-all-1.6.4_1460933139838"/>
+	<addComponent
+		id="org.jdesktop.swingx.JXGradientChooser_1460933139838"
+		name="JXGradientChooser"
+		description="Custom component: org.jdesktop.swingx.JXGradientChooser"
+		visible="true"
+		class="org.jdesktop.swingx.JXGradientChooser"
+		category="swingx-all-1.6.4_1460933139838"/>
+	<addComponent
+		id="org.jdesktop.swingx.border.DropShadowBorder_1460933139838"
+		name="DropShadowBorder"
+		description="Custom component: org.jdesktop.swingx.border.DropShadowBorder"
+		visible="true"
+		class="org.jdesktop.swingx.border.DropShadowBorder"
+		category="swingx-all-1.6.4_1460933139838"/>
+	<addComponent
+		id="org.jdesktop.swingx.JXTextField_1460933139838"
+		name="JXTextField"
+		description="Custom component: org.jdesktop.swingx.JXTextField"
+		visible="true"
+		class="org.jdesktop.swingx.JXTextField"
+		category="swingx-all-1.6.4_1460933139838"/>
+</commands>

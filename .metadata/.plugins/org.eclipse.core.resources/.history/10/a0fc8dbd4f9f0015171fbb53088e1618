@@ -1,0 +1,14 @@
+package heritage;
+
+class ClassePrincipale {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Roman r1 = new Roman(1,"JAVA",400,"P. NFAOUI",0);
+		System.out.println(r1.toString());
+		//Dictionnaire d1 = new Dictionnaire(1,1,"Larousse");
+		System.out.println(d1.toString());
+		
+	}
+
+}

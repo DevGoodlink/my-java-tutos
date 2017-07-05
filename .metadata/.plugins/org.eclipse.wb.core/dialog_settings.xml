@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.wb.internal.core.editor.palette.dialogs.ComponentAddDialog">
+		<item value="374" key="x"/>
+		<item value="617" key="width"/>
+		<item value="179" key="y"/>
+		<item value="369" key="height"/>
+	</section>
+	<section name="org.eclipse.wb.internal.core.editor.palette.dialogs.PalettePreferencesDialog">
+		<item value="420" key="x"/>
+		<item value="525" key="width"/>
+		<item value="195" key="y"/>
+		<item value="338" key="height"/>
+	</section>
+	<section name="org.eclipse.wb.internal.swing.model.property.editor.models.table.TableModelDialog">
+		<item value="295" key="x"/>
+		<item value="776" key="width"/>
+		<item value="88" key="y"/>
+		<item value="552" key="height"/>
+	</section>
+	<section name="org.eclipse.wb.internal.core.editor.palette.dialogs.ImportArchiveDialog">
+		<item value="420" key="x"/>
+		<item value="525" key="width"/>
+		<item value="143" key="y"/>
+		<item value="441" key="height"/>
+		<list key="HISTORY_JAR_LIST">
+			<item value="D:\Java-ws\tp3\swingx-all-1.6.4.jar"/>
+		</list>
+	</section>
+	<section name="org.eclipse.wb.internal.core.editor.actions.assistant.LayoutAssistantWindow">
+		<item value="569" key="x"/>
+		<item value="316" key="y"/>
+	</section>
+	<section name="org.eclipse.wb.internal.core.nls.ui.NlsDialog">
+		<item value="267" key="x"/>
+		<item value="683" key="width"/>
+		<item value="182" key="y"/>
+		<item value="364" key="height"/>
+	</section>
+</section>

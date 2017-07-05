@@ -1,0 +1,101 @@
+<?xml version=1.0 ?>
+<Etudiant>
+	<id>1</id>
+	<nom>Ali</nom>
+	<prenom>Antaki</prenom>
+	<email>Belvedere</email>
+	<gsm>06158652</gsm>
+	<organisation>UPF</organisation>
+	<ville>Casablanca</ville>
+	<filiere>Génie Informatique</filiere>
+</Etudiant>
+<Etudiant>
+	<id>2</id>
+	<nom>Mohamed</nom>
+	<prenom>Alaoui</prenom>
+	<email>Roche Noir</email>
+	<gsm>06158652</gsm>
+	<organisation>UPF</organisation>
+	<ville>Casablanca</ville>
+	<filiere>Génie Informatique</filiere>
+</Etudiant>
+<Etudiant>
+	<id>3</id>
+	<nom>Solimane</nom>
+	<prenom>Kanouni</prenom>
+	<email>Zenith</email>
+	<gsm>06158652</gsm>
+	<organisation>UPF</organisation>
+	<ville>Rabat</ville>
+	<filiere>Génie Informatique</filiere>
+</Etudiant>
+<Etudiant>
+	<id>4</id>
+	<nom>Said</nom>
+	<prenom>Hansali</prenom>
+	<email>Zaitoune</email>
+	<gsm>06158652</gsm>
+	<organisation>UPF</organisation>
+	<ville>Marrakech</ville>
+	<filiere>Génie Informatique</filiere>
+</Etudiant>
+<Etudiant>
+	<id>5</id>
+	<nom>Ahmed</nom>
+	<prenom>Radi</prenom>
+	<email>Massira</email>
+	<gsm>06158652</gsm>
+	<organisation>UPF</organisation>
+	<ville>Taza</ville>
+	<filiere>Génie Industrielle</filiere>
+</Etudiant>
+<Etudiant>
+	<id>6</id>
+	<nom>Salah</nom>
+	<prenom>Khalil</prenom>
+	<email>Belvedere</email>
+	<gsm>06158652</gsm>
+	<organisation>UPF</organisation>
+	<ville>Casablanca</ville>
+	<filiere>Génie Industrielle</filiere>
+</Etudiant>
+<Etudiant>
+	<id>7</id>
+	<nom>Mohamed</nom>
+	<prenom>Bennis</prenom>
+	<email>Batha</email>
+	<gsm>06158652</gsm>
+	<organisation>UPF</organisation>
+	<ville>Fes</ville>
+	<filiere>Génie Industrielle</filiere>
+</Etudiant>
+<Etudiant>
+	<id>8</id>
+	<nom>Anouar</nom>
+	<prenom>Moutawakil</prenom>
+	<email>Ain Haroun</email>
+	<gsm>06158652</gsm>
+	<organisation>UPF</organisation>
+	<ville>Fes</ville>
+	<filiere>Génie Industrielle</filiere>
+</Etudiant>
+<Etudiant>
+	<id>9</id>
+	<nom>Mohamed</nom>
+	<prenom>Sahli</prenom>
+	<email>Batha</email>
+	<gsm>06158652</gsm>
+	<organisation>UPF</organisation>
+	<ville>Rabat</ville>
+	<filiere>Génie Informatique</filiere>
+</Etudiant>
+<Etudiant>
+	<id>10</id>
+	<nom>Belarabi</nom>
+	<prenom>EMAD</prenom>
+	<email>Meknes Amir</email>
+	<gsm>067812555</gsm>
+	<organisation>UPF</organisation>
+	<ville>Meknes</ville>
+	<filiere>Génie Informatique</filiere>
+</Etudiant>

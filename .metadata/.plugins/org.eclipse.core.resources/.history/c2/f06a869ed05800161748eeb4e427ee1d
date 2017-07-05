@@ -1,0 +1,16 @@
+package pythagore.main;
+
+public class monMain {
+
+	public static void main(String[] args) {
+		System.out.println(""+calcul(48.73021,48.72473,9.34456,9.36872));
+		
+	}
+	public static double calcul(double a,double b,double c,double d ){
+		double CarreBMoinsA=(b-a)*(b-a);
+		double CarreDMoinsC=(d-c)*(d-c);
+		
+		return Math.sqrt(CarreBMoinsA+CarreDMoinsC)*100000 ;
+	}
+
+}

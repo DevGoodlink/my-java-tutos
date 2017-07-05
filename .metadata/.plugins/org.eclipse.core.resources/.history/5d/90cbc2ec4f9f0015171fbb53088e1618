@@ -1,0 +1,37 @@
+package heritage;
+
+public class Roman extends Livre {
+	
+	private int prix;
+	static final int GONCOURT=1;
+	static final int MEDICIS=2;
+	static final int INTERALLIE=3;
+	static final int NEANT=0;
+		
+	public Roman(int numEnr, String titre, int nbrePage, String auteur, int prix) {
+		super(numEnr, titre, nbrePage, auteur);
+		this.prix = prix;
+	}
+	public int getPrix() {
+		return prix;
+	}
+	public void setPrix(int prix) {
+		this.prix = prix;
+	}
+	@Override
+	public String toString() {
+		String prixobtenus = new String();
+		if (this.prix==0) prixobtenus="Aucun";
+		if (this.prix==1) prixobtenus="Goncourt";
+		if (this.prix==2) prixobtenus="Medicis";
+		if (this.prix==3) prixobtenus="Interallie";
+		return "Numéro d'enregistrement : " + super.getNumEnr() + "\n" +
+				"L'auteur : " + super.getAuteur() + "\n"+
+				"Titre : " + super.getTitre()+"\n"+
+				"Nombre de page : " + super.getNbrePage() +"\n"+
+				"Prix obtenu : " + prixobtenus ;
+	}
+
+	
+	
+}

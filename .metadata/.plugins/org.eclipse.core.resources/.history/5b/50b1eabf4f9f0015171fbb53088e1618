@@ -1,0 +1,30 @@
+package heritage;
+
+public abstract class Document {
+	private int numEnr;
+	private String titre;
+	public Document(){
+		
+	}
+	public Document(int numEnr, String titre) {
+		this.numEnr = numEnr;
+		this.titre = titre;
+	}
+	public int getNumEnr() {
+		return numEnr;
+	}
+	public void setNumEnr(int numEnr) {
+		this.numEnr = numEnr;
+	}
+	public String getTitre() {
+		return titre;
+	}
+	public void setTitre(String titre) {
+		this.titre = titre;
+	}
+	@Override
+	public String toString() {
+		return "Numéro d'enregistrement :" + this.numEnr + ", Titre :" + this.titre +"\n" ;
+	}
+	
+}

@@ -1,0 +1,17 @@
+package urlReader;
+
+public class MonMain {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		URL google = new URL("https://maps.googleapis.com/maps/api/distancematrix/json?origins=Fes&destinations=Rabat|Meknes|Casablanca&departure_time=1541202457&traffic_model=best_guess&key=AIzaSyCAS81Ko8cQRtfcoqs9mB0JujnbN5utNNc");
+        BufferedReader in = new BufferedReader(
+        new InputStreamReader(oracle.openStream()));
+
+        String inputLine;
+        while ((inputLine = in.readLine()) != null)
+            System.out.println(inputLine);
+        in.close();
+	}
+	
+}

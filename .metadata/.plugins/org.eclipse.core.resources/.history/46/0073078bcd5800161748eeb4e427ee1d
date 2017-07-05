@@ -1,0 +1,16 @@
+package pythagore.main;
+
+public class monMain {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+	}
+	public double calcul(double a,double b,double c,double d ){
+		double bMoinsA=(b-a)*(b-a);
+		double dMoinsC=(d-c)*(d-c);
+		
+		return Math.sqrt(bMoinsA+dMoinsC);
+	}
+
+}

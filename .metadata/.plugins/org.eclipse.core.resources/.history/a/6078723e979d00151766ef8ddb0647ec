@@ -1,0 +1,37 @@
+package heritage;
+
+public class Dictionnaire extends Document {
+	//déclaration de variables
+	private	int langue;
+	static final int ARABE=1;
+	static final int FRANCAIS=2;
+	static final int ANGLAIS=3;
+	
+	//constructeur
+	public Dictionnaire(int langue, int numEnr, String titre) {
+		super(numEnr,titre);
+		this.langue = langue;
+	}
+	
+	//Methodes d'objet
+	
+	public int getLangue() {
+		return langue;
+	}
+	
+	
+
+	public void setLangue(int langue) {
+		this.langue = langue;
+	}
+	
+	public String toString(){
+		String lng=new String();
+		if (this.langue==1) lng="Arabe";
+		if (this.langue==2) lng="Français";
+		if (this.langue==3) lng="Anglais";
+		return "Numero d'enregistrement du Dictionnaire : "+super.getNumEnr()+"\n"+
+				"Titre du dictionnaire :"+ super.getTitre()+"\n"+
+				"langue du dictionnaire : "+lng + "\n";
+	}
+}

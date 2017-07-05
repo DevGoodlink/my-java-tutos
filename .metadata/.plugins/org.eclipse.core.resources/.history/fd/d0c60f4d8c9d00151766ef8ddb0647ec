@@ -1,0 +1,62 @@
+package heritage;
+
+public class Bibliotheque {
+private String adr;
+private int nbreSalle;
+private int nbreDoc;
+
+private Document [] docs;
+
+
+public String getAdr() {
+	return adr;
+}
+
+public void setAdr(String adr) {
+	this.adr = adr;
+}
+
+public int getNbreSalle() {
+	return nbreSalle;
+}
+
+public void setNbreSalle(int nbreSalle) {
+	this.nbreSalle = nbreSalle;
+}
+
+public int getNbreDoc() {
+	return nbreDoc;
+}
+
+public void setNbreDoc(int nbreDoc) {
+	this.nbreDoc = nbreDoc;
+}
+
+public Document[] getDocs() {
+	return docs;
+}
+
+public void setDocs(Document[] docs) {
+	this.docs = docs;
+}
+
+	public String toString(){
+		String s=new String(" ");
+		for (Document doc:docs){
+			
+			if (doc!=null)	s=s+doc.toString();
+			else break;
+			
+	}
+	
+	public String getAuteur(){
+		String ch="";
+		for (int i=0;i<this.nbreDoc;i++){
+			if (docs[i] instanceof Livre);
+			Livre l=(Livre) docs[i];
+			ch=ch+(Livre) docs[i]
+		}
+	}
+	
+}
+}

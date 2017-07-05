@@ -1,0 +1,90 @@
+package heritage;
+
+public class Bibliotheque {
+private String adr;
+private int nbreSalle;
+private int nbreDoc;
+
+private Document [] docs;
+
+
+	public Bibliotheque(String adr, int nbreSalle, int capacite) {
+	
+		this.adr = adr;
+		this.nbreSalle = nbreSalle;
+		this.nbreDoc = 0;
+		this.docs = new Document[capacite];
+	}
+	
+	public String getAdr() {
+		return adr;
+	}
+	
+	public void setAdr(String adr) {
+		this.adr = adr;
+	}
+	
+	public int getNbreSalle() {
+		return nbreSalle;
+	}
+	
+	public void setNbreSalle(int nbreSalle) {
+		this.nbreSalle = nbreSalle;
+	}
+	
+	public int getNbreDoc() {
+		return nbreDoc;
+	}
+
+	public void setNbreDoc(int nbreDoc) {
+		this.nbreDoc = nbreDoc;
+	}
+
+	public Document[] getDocs() {
+		return docs;
+	}
+
+	public void setDocs(Document[] docs) {
+		this.docs = docs;
+	}
+
+	public String toString(){
+		String s=new String(" ");
+		for (Document doc:docs){
+			if (doc!=null)	s=s+doc.toString();
+			else break;
+		}
+		return s;
+	}
+	
+	public String getAuteurs(){
+		String ch="";
+		for (int i=0;i<this.nbreDoc;i++){
+			if (docs[i] instanceof Livre);
+				Livre l=(Livre) docs[i];
+				ch=ch+l.getAuteur();
+		}
+		return ch;
+	}
+	public boolean add(Document doc){
+			if(nbreDoc<docs.length){
+				this.docs[nbreDoc++]=doc;
+				return true;
+		}
+		return false;
+	}
+	public Document getDocument(int index){
+		if ((index < this.nbreDoc) && (index >= 0))
+			return docs[index];
+			return null;
+	}
+	public boolean remove(int index){
+		if	((index<this.nbreDoc)&&(index>=0)){
+			docs[index]=null;
+			for (int i=0;i<this.nbreDoc;)
+			return true;
+		}
+			
+		return false;
+	}
+}

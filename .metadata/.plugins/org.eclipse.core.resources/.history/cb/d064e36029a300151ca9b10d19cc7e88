@@ -1,0 +1,14 @@
+package banque;
+
+public class MainClass {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		//CompteBancaire[] tabcompte[];
+		PersonnePhysique pp1=new PersonnePhysique( 1, "Alaoui Mohamed", "C939706");
+		PersonnePhysique pp2=new PersonnePhysique( 1, "Hassani Hicham", "C939706");
+		CompteBancaire cb1=new CompteBancaire();
+		
+	}
+
+}

@@ -1,0 +1,11 @@
+package banque;
+
+public class PersonneMorale extends Personne {
+	String activite;
+
+	public PersonneMorale(int idBancaire, String nomComplet, String activite) {
+		super(idBancaire, nomComplet);
+		this.activite = activite;
+	}
+
+}

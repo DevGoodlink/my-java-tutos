@@ -1,0 +1,13 @@
+package heritage;
+
+public class Roman extends Livre {
+	private static final int GONCOURT=1;
+	private static final int MIDICIS=2;
+	private static final int INTERALLE=3;
+	private static final int NEANT=0;
+	
+	private int prix;
+	
+
+	
+}

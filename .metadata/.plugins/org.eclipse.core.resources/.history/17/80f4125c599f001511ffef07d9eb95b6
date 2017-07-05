@@ -1,0 +1,7 @@
+package heritage;
+
+public class Dictionnaire extends Document {
+	public static final int ARABE = 1;
+	public static final int FRANCAIS=2;
+	public static final int 
+}

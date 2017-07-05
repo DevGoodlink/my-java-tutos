@@ -1,0 +1,21 @@
+package heritage;
+
+public class ClassePrincipale2 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Bibliotheque bib = new Bibliotheque(10,3,"Fes");
+		bib.add(new Livre(1001,"Guerre et paix",2400,"L. Tolstoi"));
+		bib.add(new Livre(1002,"Programmer en Java",4000,"P. NFAOUI"));
+		
+		Document undocument1=new Roman(1003,"Mille et une nuits",650,"Inconu",Roman.INTERALLIE);
+		Document undocument2=new Roman(1004,"le doué",1000,"Balzac",Roman.MEDICIS);
+		bib.add(undocument1);
+		bib.add(undocument2);
+		bib.add(new Dictionnaire(1005,"Larousse",Dictionnaire.FRANCAIS));
+		bib.add(new Dictionnaire(1006,"Monjid",Dictionnaire.ARABE));
+		
+		
+	}
+
+}

@@ -1,0 +1,42 @@
+package heritage;
+
+public class Dictionnaire extends Document {
+	private static final int ARABE = 1;
+	private static final int FRANCAIS=2;
+	private static final int ANGLAIS=3;
+	
+	private int langue;
+	
+	public Dictionnaire(int numEnr, String titre, int langue){
+		super(numEnr,titre);
+		this.langue=langue;
+	}
+
+	public int getLangue() {
+		return langue;
+	}
+
+	public void setLangue(int langue) {
+		this.langue = langue;
+	}
+	
+	public String toString(){
+		String l="";
+		switch (this.langue) {
+		case 1:
+			l="Arabe";
+			break;
+		case 2:
+			l="Français";
+			break;
+		case 3:
+			l="Anglais";
+			break;
+		}
+		
+		return "Dictionnaire numéro : "+super.getNumEnr()+
+				"\n titre : "+super.getTitre()+
+				"\n de langue : "+l+"\n";
+	}
+	
+}

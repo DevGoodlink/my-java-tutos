@@ -1,0 +1,60 @@
+{
+   "destination_addresses" : [
+      "Rabat 10000, Morocco",
+      "Meknes, Morocco",
+      "Casablanca 20000, Morocco"
+   ],
+   "origin_addresses" : [ "Fes, Morocco" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "207 km",
+                  "value" : 207079
+               },
+               "duration" : {
+                  "text" : "2 hours 13 mins",
+                  "value" : 7978
+               },
+               "duration_in_traffic" : {
+                  "text" : "2 hours 13 mins",
+                  "value" : 7995
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "63.8 km",
+                  "value" : 63837
+               },
+               "duration" : {
+                  "text" : "50 mins",
+                  "value" : 2981
+               },
+               "duration_in_traffic" : {
+                  "text" : "50 mins",
+                  "value" : 3005
+               },
+               "status" : "OK"
+            },
+            {
+               "distance" : {
+                  "text" : "290 km",
+                  "value" : 289603
+               },
+               "duration" : {
+                  "text" : "3 hours 8 mins",
+                  "value" : 11284
+               },
+               "duration_in_traffic" : {
+                  "text" : "3 hours 8 mins",
+                  "value" : 11274
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}

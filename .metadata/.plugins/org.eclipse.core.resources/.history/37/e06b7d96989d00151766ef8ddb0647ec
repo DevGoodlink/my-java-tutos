@@ -1,0 +1,32 @@
+package heritage;
+
+public class Livre extends Document {
+		private int nbrePage;
+		private String auteur;
+	public Livre(int numEnr, String titre, int nbrePage, String auteur){
+		super(numEnr,titre);
+		this.nbrePage=nbrePage;
+		this.auteur=auteur;
+	}
+	public int getNbrePage() {
+		return nbrePage;
+	}
+	public void setNbrePage(int nbrePage) {
+		this.nbrePage = nbrePage;
+	}
+	public String getAuteur() {
+		return auteur;
+	}
+	public void setAuteur(String auteur) {
+		this.auteur = auteur;
+	}
+	
+	@Override
+	public String toString() {
+		return super.toString()+
+				"Auteur :" + this.auteur +
+				"Nombre de pages :" + this.nbrePage  ;
+	}
+	
+	
+}
